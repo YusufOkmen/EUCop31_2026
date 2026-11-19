@@ -4,7 +4,7 @@
 
 CircuLife is a circular economy concept for university campuses. It stops unused or slightly damaged items from becoming waste by combining **digital matching, repair and reuse**.
 
-**Status:** Concept and pilot proposal, prepared for **EUCOP31** by team **Waste2Value**. The full presentation (in Turkish) is in [`docs/eucop31_sunum.pdf`](docs/eucop31_sunum.pdf).
+**Status:** Concept and pilot proposal, prepared for **EUCOP31** by team **Waste2Value**. The full presentation (in Turkish) is in [`docs/eucop31_sunum.pdf`](eucop31_sunum.pdf).
 
 🇹🇷 [Türkçe özet için aşağıya bakın](#türkçe-özet)
 
